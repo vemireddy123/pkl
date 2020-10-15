@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>89933419303-mt9jnmr48rri710he38nvbf4tapjjdnc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.89933419303-mt9jnmr48rri710he38nvbf4tapjjdnc</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>89933419303-blf9c6k4g0orjovfkm981cnr8s6j6fc5.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCdaPk4V1z4JXTfT1C4lhICa4WTR8sJRec</string>
+	<key>GCM_SENDER_ID</key>
+	<string>89933419303</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.pklocalapp</string>
+	<key>PROJECT_ID</key>
+	<string>pakkalokal-89516</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pakkalokal-89516.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:89933419303:ios:81143d5fc7a9a8aa48cf02</string>
+	<key>DATABASE_URL</key>
+	<string>https://pakkalokal-89516.firebaseio.com</string>
+</dict>
+</plist>

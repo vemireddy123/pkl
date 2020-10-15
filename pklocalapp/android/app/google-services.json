@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "89933419303",
+    "firebase_url": "https://pakkalokal-89516.firebaseio.com",
+    "project_id": "pakkalokal-89516",
+    "storage_bucket": "pakkalokal-89516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89933419303:android:329a3ac13d03bd7648cf02",
+        "android_client_info": {
+          "package_name": "com.example.pklocalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89933419303-blf9c6k4g0orjovfkm981cnr8s6j6fc5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pklocalapp",
+            "certificate_hash": "068dd798afab474ae2f9c85950d5cf9eec9549ad"
+          }
+        },
+        {
+          "client_id": "89933419303-200radaa49o9kosoqopifdmlsv2oea9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdflnL7JboyzszGipjw3SF5mWOdAQLrts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89933419303-200radaa49o9kosoqopifdmlsv2oea9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
