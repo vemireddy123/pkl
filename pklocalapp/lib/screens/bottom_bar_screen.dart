@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:pklocalapp/screens/home_sceeen.dart';
+import 'package:pklocalapp/screens/live_sceen.dart';
 import 'package:pklocalapp/screens/news_grid_list.dart';
 
 class BNavegation extends StatefulWidget {
@@ -21,11 +22,12 @@ class _BNavegationState extends State<BNavegation> {
     //   ),
     // ),
     NewsGridScreen(),
-    Center(
-      child: Text(
-        'Live',
-      ),
-    ),
+    // Center(
+    //   child: Text(
+    //     'Live',
+    //   ),
+    // ),
+    LiveGridScreen(),
     Center(
       child: Text(
         'memes',
